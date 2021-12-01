@@ -1,0 +1,9 @@
+C:\Users\9M\source\repos\MTalk\MTalk\bin\Debug\MTalk.exe.config
+C:\Users\9M\source\repos\MTalk\MTalk\bin\Debug\MTalk.exe
+C:\Users\9M\source\repos\MTalk\MTalk\bin\Debug\MTalk.pdb
+C:\Users\9M\source\repos\MTalk\MTalk\obj\Debug\MTalk_Server.csprojAssemblyReference.cache
+C:\Users\9M\source\repos\MTalk\MTalk\obj\Debug\MTalk.Properties.Resources.resources
+C:\Users\9M\source\repos\MTalk\MTalk\obj\Debug\MTalk_Server.csproj.GenerateResource.cache
+C:\Users\9M\source\repos\MTalk\MTalk\obj\Debug\MTalk_Server.csproj.CoreCompileInputs.cache
+C:\Users\9M\source\repos\MTalk\MTalk\obj\Debug\MTalk.exe
+C:\Users\9M\source\repos\MTalk\MTalk\obj\Debug\MTalk.pdb
